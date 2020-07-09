@@ -6,7 +6,7 @@ If you see an account called 'abcight' on any social media that was not listed h
 [▷ Reddit](https://reddit.com/u/abcightdev)  
 [▷ Twitter](https://twitter.com/abcight)  
 [▷ YouTube](https://www.youtube.com/channel/UCS2kzII_zLKUGwcXu5AYK8g)  
-[▷ My personal website](https://www.abcight.xyz)  
+[▷ My personal website](https://www.abcight.com)  
 
 ## Works
 I mainly work by providing programming assistance to other projects.  
